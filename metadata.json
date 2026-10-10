@@ -1,0 +1,6 @@
+{
+  "name": "วงล้อจับรางวัล Lucky Prize Wheel",
+  "description": "วงล้อจับรางวัลสุ่มผู้โชคดี ปรับแต่งชื่อ สีสัน บันทึกรายการโปรด ส่งออกภาพผลลัพธ์ ปรับภาพพื้นหลัง และรองรับการทำงานออฟไลน์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
